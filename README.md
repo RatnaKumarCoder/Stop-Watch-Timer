@@ -19,3 +19,6 @@ The timer container Hours, Minutes, Seconds as its units.
 3.Reset_timer() function to reset the timer to 00.
 ---------------------------------------------------------------
 *An additional function called timer() to add as an eventListener when the user clicks #start button
+
+# Git hub live link
+https://ratnakumarcoder.github.io/Stop-Watch-Timer/
