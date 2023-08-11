@@ -13,6 +13,7 @@ let seconds_counter=0;
 let minutes_counter=0;
 let hours_counter=0;
 
+// variable to resolve the start click overloading bug
 let running=true;
 
 // variable to store the setInterval function id
