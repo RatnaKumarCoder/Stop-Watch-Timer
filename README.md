@@ -1,6 +1,6 @@
 # Stop-Watch-Timer
 
-The project Stop-Watch timer is a Stop Watch with conventional Design and implementation
+The project Stop-Watch timer is a Stop Watch with conventional Design and implementation.
 The timer container Hours, Minutes, Seconds as its units.
 
 # Functionalities:-
@@ -12,7 +12,7 @@ The timer container Hours, Minutes, Seconds as its units.
 *conventional Html and CSS code with Bootstrap were written it it. To make the appearance good. 
 
 
-# Functions in JS file: Code is written in vannila.js format, Any king of frontend frame works are used except github:-
+# Functions in JS file: Code is written in vannila.js:-
 # Main functionalities
 1.Start_timer() function to start the timer.
 2.Pause_timer() function to pause the timer.
